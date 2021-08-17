@@ -1,6 +1,6 @@
 # makeDemo
 
-This demo was copied from <https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/>.
+This demo originated from <https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/>, then it was copied from <https://github.com/hoppersroppers/makeDemo>
 
 You can check out the code located in the three files (hellomake.c, hellofunc.c, and hellomake.h and read the Makefile) to understand what is going on... or you can not. 
 
@@ -8,7 +8,7 @@ To get this to work, all you have to do is follow the instructions.
 
 ## Instructions
 
-1. Clone the repository using git clone https://github.com/hoppersroppers/makeDemo.git
+1. Clone the repository using git clone https://github.com/Kevinconnu/makeDemo.git
 2. cd into the directory
 3. Run the command "make"
 
